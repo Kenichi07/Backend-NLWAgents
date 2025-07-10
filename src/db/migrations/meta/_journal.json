@@ -8,6 +8,13 @@
       "when": 1752063602229,
       "tag": "0000_hard_silverclaw",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752104839017,
+      "tag": "0001_swift_mandrill",
+      "breakpoints": true
     }
   ]
 }
